@@ -30,7 +30,7 @@ export default function Header() {
       <Container>
         <GlobalNav>
           <div>
-            <img src={Logo} width="60px"></img>
+            <img src={Logo} alt="logo" width="60px"></img>
           </div>
           <SmallNav>
             <div>업체소개</div>
