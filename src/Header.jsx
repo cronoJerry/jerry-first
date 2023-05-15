@@ -19,8 +19,9 @@ const SmallNav = styled.div`
   display: flex;
   justify-content: space-between;
   cursor: pointer;
-  &:hover {
-    color: red;
+  div:hover{
+    background-color: green;
+    color: white;
   }
 `;
 export default function Header() {
